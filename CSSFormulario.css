@@ -1,0 +1,38 @@
+*
+body{
+    background-color: rgb(99, 94, 136);
+}
+
+h1{
+    color: aquamarine;
+}
+
+h2{
+    color: aquamarine;
+}
+
+div{
+    background-color: aquamarine;
+    width: 250px;
+    height: 150px;
+    border-bottom-color:#000099; 
+    border-bottom-style:solid; 
+    border-bottom-width:3px; 
+    border-top-color:#000099; 
+    border-top-style:solid; 
+    border-top-width:3px;
+}
+
+input,label:hover{
+    background-color: yellow;
+    color: rgb(0, 14, 209);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+input:focus {
+    color: rgb(255, 255, 0);
+    outline: 2px solid orange;  
+ }
